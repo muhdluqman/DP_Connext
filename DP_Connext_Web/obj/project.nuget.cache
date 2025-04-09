@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzPXMY1Q/MaVQxB2jNo6Y4iio1/kJDfi6jV9ro18bkOcS7FEXP6RM58Z4xKf2V0UR09qwhA7CFwHx5Yr1nEYYA==",
+  "success": true,
+  "projectFilePath": "/Users/luqman/Projects/DP_Connext_Web/DP_Connext_Web/DP_Connext_Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/luqman/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/luqman/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/luqman/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

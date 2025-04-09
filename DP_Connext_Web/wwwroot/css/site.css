@@ -1,0 +1,48 @@
+/* CAROUSEL STYLES */
+.login-left {
+    height: 100vh;
+    background: linear-gradient(rgba(255, 0, 0, 0.7), rgba(255, 0, 0, 0.7)), url('/images/doctor.png') center/cover no-repeat;
+    color: white;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.carousel {
+    width: 100%;
+    flex-grow: 1;
+}
+
+.carousel-content {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.carousel-logo {
+    /* Removed max-width and let HTML inline style handle it */
+    object-fit: contain;
+}
+
+.carousel-indicators-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+
+    .carousel-indicators-container button {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: rgba(255, 255, 255, 0.5);
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .carousel-indicators-container button.active {
+            background-color: white;
+        }
